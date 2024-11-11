@@ -1,0 +1,93 @@
+time,current_course,hear_website,hear_billboard,hear_television,hear_radio,hear_media,hear_community,hear_person,hear_employer,hear_current_student,hear_alumni,hear_high_school,scale_interest,interest_web,interest_cybersecurity,interest_apps,interest_analytics,interest_ai,interest_programming,interest_games,interest_hardware,gender
+2024/09/12 11:32:08 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,Yes,Yes,Yes,2,No,No,No,No,No,Yes,No,No,Man
+2024/09/12 12:41:01 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,Yes,No,No,No,3,No,Yes,No,Yes,No,No,No,Yes,Man
+2024/09/16 12:12:48 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,No,Yes,No,Yes,No,3,No,No,No,No,No,No,No,No,Man
+2024/09/10 11:02:51 AM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,No,No,No,No,No,No,No,5,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Man
+2024/09/10 11:05:25 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,3,No,No,No,Yes,No,No,Yes,No,Man
+2024/09/15 2:58:37 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,No,No,No,3,No,Yes,Yes,No,No,Yes,Yes,Yes,Man
+2024/09/18 12:06:47 PM AST,CMP 126 Computer Technology and Applications,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,3,No,Yes,Yes,No,Yes,Yes,Yes,No,Man
+2024/09/12 8:08:51 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,Yes,No,No,No,1,No,No,No,No,No,No,No,No,Man
+2024/09/12 8:06:14 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,No,Yes,Yes,No,No,No,Yes,No,Man
+2024/09/21 5:06:23 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,3,No,No,No,No,No,No,No,No,Man
+2024/09/19 10:34:09 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,No,No,Yes,3,No,Yes,No,No,No,No,Yes,Yes,Man
+2024/09/19 9:54:19 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,No,No,No,No,Yes,2,No,No,No,No,No,No,No,No,Man
+2024/09/19 9:34:15 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,Yes,No,No,3,No,Yes,No,Yes,Yes,No,Yes,Yes,Man
+2024/09/19 9:49:38 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,2,No,Yes,No,Yes,Yes,No,No,Yes,Man
+2024/09/12 11:30:15 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,No,No,Yes,2,No,No,No,No,Yes,No,No,No,Man
+2024/09/19 10:58:08 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,No,Yes,Yes,3,No,No,No,Yes,No,Yes,No,Yes,Man
+2024/09/12 11:30:21 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,No,No,No,No,No,No,No,No,Man
+2024/09/19 8:44:52 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,3,No,No,No,No,No,No,No,Yes,Man
+2024/09/12 11:30:37 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,No,Yes,Man
+2024/09/19 8:41:25 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,Yes,No,No,No,No,No,No,Yes,Man
+2024/09/12 11:30:44 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,No,2,No,No,No,No,No,No,No,No,Man
+2024/09/12 11:30:59 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,No,No,Yes,2,No,No,No,No,No,No,No,No,Man
+2024/09/12 11:31:09 AM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,No,No,No,No,3,No,Yes,No,No,No,No,No,No,Man
+2024/09/12 8:04:48 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,No,No,Yes,1,No,No,No,No,No,No,No,No,Man
+2024/09/12 11:31:27 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,No,2,No,No,No,No,No,No,Yes,No,Man
+2024/09/12 8:04:45 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,3,Yes,No,Yes,No,No,No,No,No,Man
+2024/09/17 7:53:12 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Man
+2024/09/12 11:32:22 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Man
+2024/09/12 8:04:41 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,1,No,No,No,No,No,No,No,No,Man
+2024/09/12 11:29:38 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,No,2,No,No,No,No,No,No,Yes,No,Non-binary
+2024/09/10 10:47:35 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,2,Yes,Yes,No,No,No,No,No,No,Prefer not to say
+2024/09/19 9:12:47 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,No,No,Yes,No,No,1,No,No,No,No,No,No,No,No,Prefer not to say
+2024/09/12 11:32:44 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4,No,Yes,No,Yes,No,No,Yes,No,Woman
+2024/09/12 9:34:01 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,Yes,No,No,2,No,No,No,No,No,No,No,No,Woman
+2024/09/12 11:31:20 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,No,No,Yes,No,Yes,5,Yes,Yes,No,Yes,No,Yes,No,Yes,Woman
+2024/09/11 8:16:57 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,No,Yes,No,No,No,No,2,Yes,No,Yes,No,No,Yes,No,No,Woman
+2024/09/11 12:40:52 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,2,No,No,No,Yes,No,No,No,Yes,Woman
+2024/09/11 10:54:10 AM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,No,Yes,No,Yes,No,No,3,No,No,No,No,No,No,No,No,Woman
+2024/09/10 10:52:37 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,No,No,No,Yes,3,No,No,No,No,No,No,Yes,No,Woman
+2024/09/10 9:29:27 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,3,Yes,No,Yes,No,No,No,Yes,No,Woman
+2024/09/10 8:37:36 PM AST,CMP 101 Computer Information Literacy,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,No,No,No,No,No,No,No,No,Woman
+2024/09/10 11:00:05 AM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,3,No,Yes,Yes,Yes,Yes,Yes,No,No,Woman
+2024/09/11 7:06:45 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,No,No,No,No,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/16 4:07:09 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,No,No,No,No,No,No,1,No,No,No,No,No,No,No,No,Woman
+2024/09/12 11:31:56 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,2,Yes,Yes,Yes,No,No,No,Yes,No,Woman
+2024/09/12 9:34:06 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,Yes,No,No,2,No,No,No,No,No,No,No,No,Woman
+2024/09/12 11:32:42 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,2,No,No,No,No,No,No,No,No,Woman
+2024/09/12 8:15:35 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Woman
+2024/09/12 8:06:56 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,Yes,No,4,No,No,No,No,Yes,No,Yes,No,Woman
+2024/09/12 8:06:11 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,Yes,No,No,3,No,No,No,No,No,No,No,No,Woman
+2024/09/12 8:05:49 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,No,No,No,No,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Woman
+2024/09/12 8:05:42 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,Yes,No,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/12 11:32:31 AM AST,CMP 135 Computer Concepts with Applications,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,2,No,No,No,Yes,No,No,No,No,Woman
+2024/09/12 8:05:34 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/12 8:05:28 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,5,Yes,No,No,No,Yes,Yes,No,No,Woman
+2024/09/12 8:05:15 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,No,No,No,No,Yes,2,No,No,No,No,Yes,No,No,No,Woman
+2024/09/12 8:04:56 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,3,No,Yes,No,No,No,No,No,No,Woman
+2024/09/12 3:57:02 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,No,Yes,No,No,1,No,Yes,No,No,No,No,No,No,Woman
+2024/09/12 11:33:25 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,1,Yes,No,Yes,No,Yes,No,Yes,No,Woman
+2024/09/14 9:28:21 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,Yes,No,No,No,No,No,5,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Woman
+2024/09/12 10:29:04 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,No,1,No,No,No,No,No,No,No,No,Woman
+2024/09/19 9:13:35 PM AST,CMP 126 Computer Technology and Applications,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,4,Yes,Yes,Yes,No,Yes,No,No,No,Woman
+2024/09/12 11:30:23 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,Yes,No,No,4,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Woman
+2024/09/19 11:40:21 AM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,2,No,No,No,No,No,No,No,No,Woman
+2024/09/20 11:07:16 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,Yes,Yes,No,No,No,No,1,No,No,No,No,Yes,No,Yes,No,Woman
+2024/09/20 11:02:45 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,No,3,Yes,Yes,Yes,No,No,No,No,No,Woman
+2024/09/20 10:55:34 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,No,No,No,No,3,No,Yes,No,No,No,Yes,Yes,No,Woman
+2024/09/18 2:57:56 PM AST,CMP 135 Computer Concepts with Applications,No,Yes,No,No,No,No,Yes,No,No,No,Yes,2,Yes,Yes,Yes,Yes,No,Yes,No,No,Woman
+2024/09/20 8:42:54 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Woman
+2024/09/18 4:12:53 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Woman
+2024/09/20 3:12:26 PM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,No,No,No,No,No,No,No,3,No,Yes,No,Yes,Yes,No,No,No,Woman
+2024/09/20 8:24:27 AM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/19 10:34:24 PM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/19 9:15:33 AM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/19 9:21:51 AM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,No,No,Yes,No,No,No,No,2,No,No,No,No,No,No,No,No,Woman
+2024/09/19 9:53:02 PM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,Yes,No,No,No,No,No,No,2,No,No,No,No,No,No,No,No,Woman
+2024/09/12 8:05:31 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,5,No,Yes,No,No,Yes,No,Yes,No,Woman
+2024/09/19 10:20:11 AM AST,CMP 126 Computer Technology and Applications,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,3,No,No,Yes,No,No,No,Yes,No,Woman
+2024/09/19 8:59:39 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,No,No,Yes,3,No,Yes,No,No,No,No,No,No,Woman
+2024/09/19 11:18:36 AM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,No,No,Yes,No,No,No,Yes,3,No,Yes,Yes,No,Yes,Yes,Yes,No,Woman
+2024/09/19 8:00:55 PM AST,CMP 101 Computer Information Literacy,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,3,No,No,No,No,No,No,No,No,Woman
+2024/09/19 2:00:30 PM AST,CMP 126 Computer Technology and Applications,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,2,No,No,No,No,No,No,Yes,No,Woman
+2024/09/19 1:14:32 PM AST,CMP 135 Computer Concepts with Applications,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,3,Yes,Yes,No,No,Yes,No,No,Yes,Woman
+2024/09/19 11:20:18 AM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,2,Yes,No,No,No,No,No,No,No,Woman
+2024/09/19 12:35:00 PM AST,CMP 101 Computer Information Literacy,No,No,No,No,No,No,Yes,No,Yes,Yes,No,1,No,No,No,No,No,No,No,No,Woman
+2024/09/19 12:15:33 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,Yes,No,No,No,Yes,1,No,No,No,No,No,No,No,No,Woman
+2024/09/16 10:12:54 PM AST,CMP 101 Computer Information Literacy,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,3,No,No,Yes,No,Yes,No,Yes,No,Woman
+2024/09/12 8:06:05 PM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,No,3,Yes,No,Yes,Yes,Yes,Yes,No,No,Woman
+2024/09/16 12:33:11 PM AST,CMP 126 Computer Technology and Applications,No,No,No,No,No,No,No,No,No,Yes,Yes,2,No,No,No,Yes,No,No,No,Yes,Woman
+2024/09/12 11:30:41 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,No,No,Yes,3,No,No,No,No,No,No,No,No,Woman
+2024/09/12 11:30:18 AM AST,CMP 135 Computer Concepts with Applications,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,2,No,No,No,No,No,No,No,No,Woman
+2024/09/22 10:08:19 PM AST,CMP 126 Computer Technology and Applications,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,5,No,No,No,No,Yes,No,No,Yes,Woman
